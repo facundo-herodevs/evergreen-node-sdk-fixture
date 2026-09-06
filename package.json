@@ -27,7 +27,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "tslib": "2.5.0"
+    "uuid": "3.4.0"
   },
   "devDependencies": {}
 }
