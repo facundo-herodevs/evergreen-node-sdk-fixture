@@ -180,3 +180,5 @@ or "Active LTS" as defined in the
 In accordance with the Semantic Versioning specification, the addition of support
 for new Node.js versions would result in a MINOR version bump and the removal of support
 for Node.js versions would result in a MAJOR version bump.
+
+verification-base: verification/202-fresh-base-175b26d7
